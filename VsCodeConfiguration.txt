@@ -1,56 +1,73 @@
 "workbench.colorCustomizations": {
-    // Editor
-    "editor.background": "#000",
-    "editor.foreground": "#bbff00",
+        // Editor (Editor Text)
+        "editor.background": "#000",
+        "editor.foreground": "#bbff00",
 
-    // Title Bar
-    "titleBar.activeBackground": "#000",
-    "titleBar.activeForeground": "#bbff00",
-    "titleBar.inactiveBackground": "#000",
-    "titleBar.inactiveForeground": "#bbff00",
-    "titleBar.border": "#fff",
+        // Title Bar (Window Bar)
+        "titleBar.activeBackground": "#000",
+        "titleBar.activeForeground": "#bbff00",
+        "titleBar.inactiveBackground": "#000",
+        "titleBar.inactiveForeground": "#bbff00",
+        "titleBar.border": "#fff",
 
-    // Menu Bar
-    "menubar.selectionBackground": "#000",
-    "menu.separatorBackground": "#ff0000",
-    "menubar.selectionForeground": "#bbff00",
-    "menu.background": "#000",
-    "menu.foreground": "#bbff00",
+        // Menu Bar (Top Bar)
+        "menubar.selectionBackground": "#000",
+        "menu.separatorBackground": "#ff0000",
+        "menubar.selectionForeground": "#bbff00",
+        "menu.background": "#000",
+        "menu.foreground": "#bbff00",
 
-    // Activity Bar
-    "activityBar.background": "#000",
-    "activityBar.foreground": "#bbff00",
-    "activityBar.inactiveForeground": "#bbff00",
-    "activityBar.activeBorder": "#ff0000",
-    "activityBar.activeBackground": "#000",
-    "activityBar.border": "#fff",
+        // Activity Bar (Left Side Bar)
+        "activityBar.background": "#000",
+        "activityBar.foreground": "#bbff00",
+        "activityBar.inactiveForeground": "#bbff00",
+        "activityBar.activeBorder": "#ff0000",
+        "activityBar.activeBackground": "#000",
+        "activityBar.border": "#fff",
 
-    // Side Bar
-    "sideBar.background": "#000",
-    // change the right side of the sidebar to white so it's easier to see the scroll bar and differentiate between teh sidebar and the editor
-    "sideBar.foreground": "#bbff00",
-    "sideBar.border": "#fff",
-    "sideBarTitle.foreground": "#bbff00",
-    "sideBarSectionHeader.background": "#000",
-    "sideBarSectionHeader.foreground": "#bbff00",
-    "sideBarSectionHeader.border": "#ff0000",
+        // Side Bar (File Browser)
+        "sideBar.background": "#000",
+        "sideBar.foreground": "#bbff00",
+        "sideBar.border": "#fff",
+        "sideBarTitle.foreground": "#bbff00",
+        "sideBarSectionHeader.background": "#000",
+        "sideBarSectionHeader.foreground": "#bbff00",
+        "sideBarSectionHeader.border": "#ff0000",
 
-    // Tabs (tab bar)
-    "tab.activeBackground": "#000",
-    "tab.activeForeground": "#bbff00",
-    "tab.border": "#fff",
-    "tab.inactiveBackground": "#000",
-    "tab.inactiveForeground": "#bbff00",
-    "tab.unfocusedActiveForeground": "#bbff00",
-    "tab.unfocusedInactiveForeground": "#bbff00",
+        // Tabs (Tab Bar)
+        "tab.activeBackground": "#000",
+        "tab.activeForeground": "#bbff00",
+        "tab.border": "#fff",
+        "tab.inactiveBackground": "#000",
+        "tab.inactiveForeground": "#bbff00",
+        "tab.unfocusedActiveForeground": "#bbff00",
+        "tab.unfocusedInactiveForeground": "#bbff00",
 
-    // Editor Groups (group of tabs)
-    "editorGroup.border": "#fff",
-    "editorGroupHeader.tabsBackground": "#000",
-    "editorGroupHeader.tabsBorder": "#fff",
-    "editorGroupHeader.noTabsBackground": "#000",
-    "editorGroupHeader.noTabsBorder": "#ff0000",
+        // Editor Groups (Tab Bar)
+        "editorGroup.border": "#fff",
+        "editorGroupHeader.tabsBackground": "#000",
+        "editorGroupHeader.tabsBorder": "#fff",
+        "editorGroupHeader.noTabsBackground": "#000",
+        "editorGroupHeader.noTabsBorder": "#ff0000",
 
-    // Status Bar
-    "statusBar.background": "#000"
-}
+        // Status Bar (Bottom Bar)
+        "statusBar.background": "#000",
+
+        // Panel Bar (Output, Terminal, Debug Console, Ports)
+        "panel.background": "#000",
+        "panelInput.background": "#000",
+        "panelInput.foreground": "#fff",
+        "panelTitle.activeForeground": "#fff",
+        "panelTitle.inactiveForeground": "#fff",
+        "panelSectionHeader.background": "#000",
+        "panelSectionHeader.foreground": "#fff",
+        "panelTitle.activeBorder": "#fff",
+        "panelTitle.inactiveBorder": "#fff",
+        "panel.border": "#fff",
+        "panelInput.border": "#fff",
+        "panelInput.placeholderForeground": "#fff",
+        "panelSection.border": "#fff",
+        "panelSection.dropBackground": "#fff",
+        "panelSectionHeader.border": "#fff",
+        "panelSectionHeader.dropBackground": "#fff",
+    }
