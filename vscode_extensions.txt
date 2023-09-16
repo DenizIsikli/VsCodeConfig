@@ -1,0 +1,13 @@
+formulahendry.code-runner
+GitHub.copilot
+glenn2223.live-sass
+Ketho.wow-api
+ms-python.python
+ms-python.vscode-pylance
+ms-vscode-remote.remote-wsl
+ms-vscode.cpptools
+ms-vscode.powershell
+PKief.material-icon-theme
+Septh.wow-bundle
+stanzilla.vscode-wow-toc
+sumneko.lua
