@@ -1,0 +1,15 @@
+vscode-icontheme-nomo-dark
+code-runner
+copilot
+copilot-chat
+github-vscode-theme
+vscode-vibrancy-continued
+wow-api
+python
+vscode-pylance
+remote-wsl
+cpptools
+powershell
+wow-bundle
+vscode-wow-toc
+lua
