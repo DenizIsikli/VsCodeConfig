@@ -3,13 +3,13 @@ code-runner
 copilot
 copilot-chat
 github-vscode-theme
-vscode-vibrancy-continued
 wow-api
 python
 vscode-pylance
 remote-wsl
 cpptools
 powershell
+glassit
 wow-bundle
 vscode-wow-toc
 lua
