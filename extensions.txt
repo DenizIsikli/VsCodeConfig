@@ -13,3 +13,4 @@ glassit
 wow-bundle
 vscode-wow-toc
 lua
+pdf
