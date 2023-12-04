@@ -8,7 +8,7 @@ using namespace std;
 int main() {
     fstream file;
     
-    file.open("extensions.txt", ios::out);
+    file.open("Extensions.txt", ios::out);
 
     if (!file.is_open()) {
         cerr << "Error opening file." << std::endl;
@@ -28,9 +28,9 @@ int main() {
     while (fgets(buffer, sizeof(buffer), pipe) != nullptr) {
         char *dotPosition = strchr(buffer, '.');
         if (dotPosition) {
-            file << (dotPosition + 1);  // Write the text after the dot (excluding the dot)
+            file << (dotPosition + 1);
         } else {
-            file << buffer;  // Write the entire line if no dot is found
+            file << buffer;
         }
     }
 
