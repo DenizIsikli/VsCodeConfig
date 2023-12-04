@@ -1,6 +1,10 @@
-<div align="center">
-  <h1>VSCode Configuration</h1>
-  <h3>My configurations and extensions for VS Code</h3>
-  <p>Configs: VsCodeConfiguration.txt</p>
-  <p>VS Code Extentions: extensions.txt</p>
-</div>
+# VSCode Configuration
+
+## Overview
+This repository contains my configurations and extensions for Visual Studio Code.
+
+- Configs: `VsCodeConfiguration.txt`
+- Extensions: `extensions.txt`
+
+## Important Note
+Don't forget to add `**/*.exe` `VsCodeFileExclude.png` to the file exclude settings in VS Code. This helps avoid generating executables when using GCC/G++.
