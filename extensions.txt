@@ -7,7 +7,6 @@ wow-api
 python
 vscode-pylance
 remote-wsl
-cpptools
 powershell
 glassit
 wow-bundle
