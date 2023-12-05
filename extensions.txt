@@ -1,8 +1,11 @@
 vscode-icontheme-nomo-dark
+gitlens
+prettier-vscode
 code-runner
 copilot
 copilot-chat
 github-vscode-theme
+vscode-peacock
 wow-api
 python
 vscode-pylance
