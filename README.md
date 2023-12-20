@@ -3,6 +3,8 @@
 ## Overview
 This repository contains my configurations and extensions for Visual Studio Code.
 
+Import Extentions: `https://vscode.dev/profile/github/3969767f81e17b01ddd7fc7f66cfdae0`
+
 - Configs: `VsCodeConfiguration.txt`
 - Extensions: `extensions.txt`
 
