@@ -9,11 +9,6 @@ vscode-peacock
 wow-api
 python
 vscode-pylance
-jupyter
-jupyter-keymap
-jupyter-renderers
-vscode-jupyter-cell-tags
-vscode-jupyter-slideshow
 remote-wsl
 powershell
 glassit
