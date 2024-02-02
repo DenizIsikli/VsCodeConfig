@@ -1,54 +1,70 @@
-NOT IN USE
+# My Workbench Customizations for Visual Studio Code
 
+Below is a collection of my workbench color customizations for Visual Studio Code:
+
+```json
 "workbench.colorCustomizations": {
         // Editor (Editor Text)
         "editor.background": "#000",
-        "editor.foreground": "#bbff00",
+        "editor.foreground": "#fff",
 
         // Title Bar (Window Bar)
         "titleBar.activeBackground": "#000",
-        "titleBar.activeForeground": "#bbff00",
+        "titleBar.activeForeground": "#2afcce",
+
         "titleBar.inactiveBackground": "#000",
-        "titleBar.inactiveForeground": "#bbff00",
-        "titleBar.border": "#fff",
+        "titleBar.inactiveForeground": "#2afcce",
 
         // Menu Bar (Top Bar)
-        "menubar.selectionBackground": "#000",
-        "menu.separatorBackground": "#ff0000",
-        "menubar.selectionForeground": "#bbff00",
         "menu.background": "#000",
-        "menu.foreground": "#bbff00",
+        "menu.foreground": "#2afcce",
+        
+        "menubar.selectionBackground": "#000",
+        "menubar.selectionForeground": "#2afcce",
+
+        "menu.separatorBackground": "#419c89",
 
         // Activity Bar (Left Side Bar)
         "activityBar.background": "#000",
-        "activityBar.foreground": "#bbff00",
-        "activityBar.inactiveForeground": "#bbff00",
-        "activityBar.activeBorder": "#ff0000",
+        "activityBar.foreground": "#2afcce",
+
+        "activityBar.inactiveForeground": "#2afcce",
+
+        "activityBar.activeBorder": "#419c89",
         "activityBar.activeBackground": "#000",
-        "activityBar.border": "#fff",
 
         // Side Bar (File Browser)
         "sideBar.background": "#000",
-        "sideBar.foreground": "#bbff00",
-        "sideBar.border": "#fff",
-        "sideBarTitle.foreground": "#bbff00",
+        "sideBar.foreground": "#2afcce",
+        
+        "sideBarTitle.foreground": "#2afcce",
+
         "sideBarSectionHeader.background": "#000",
-        "sideBarSectionHeader.foreground": "#bbff00",
-        "sideBarSectionHeader.border": "#ff0000",
+        "sideBarSectionHeader.foreground": "#2afcce",
 
         // Tabs (Tab Bar)
-        "tab.activeBackground": "#000",
-        "tab.activeForeground": "#bbff00",
-        "tab.border": "#fff",
+        "tab.activeBackground": "#647888",
+        "tab.activeForeground": "#2afcce",
+
         "tab.inactiveBackground": "#000",
-        "tab.inactiveForeground": "#bbff00",
-        "tab.unfocusedActiveForeground": "#bbff00",
-        "tab.unfocusedInactiveForeground": "#bbff00",
+        "tab.inactiveForeground": "#2afcce",
+        
+        "tab.hoverBackground": "#647888",
+        "tab.hoverBorder": "#419c89",
+
+        "tab.activeBorder": "#419c89",
+        "tab.activeBorderTop": "#000",
+
+        "tab.unfocusedActiveForeground": "#2afcce",
+        "tab.unfocusedInactiveForeground": "#2afcce",
+        "tab.unfocusedActiveBorder": "#419c89",
+        
+        "tab.unfocusedHoverBorder": "#419c89",
+        "tab.unfocusedHoverBackground": "#0f0664",
 
         // Editor Groups (Tab Bar)
-        "editorGroup.border": "#fff",
         "editorGroupHeader.tabsBackground": "#000",
-        "editorGroupHeader.tabsBorder": "#fff",
+        
         "editorGroupHeader.noTabsBackground": "#000",
         "editorGroupHeader.noTabsBorder": "#ff0000",
 
@@ -57,19 +73,20 @@ NOT IN USE
 
         // Panel Bar (Output, Terminal, Debug Console, Ports)
         "panel.background": "#000",
+
         "panelInput.background": "#000",
         "panelInput.foreground": "#fff",
+
         "panelTitle.activeForeground": "#fff",
         "panelTitle.inactiveForeground": "#fff",
+
         "panelSectionHeader.background": "#000",
         "panelSectionHeader.foreground": "#fff",
-        "panelTitle.activeBorder": "#fff",
-        "panelTitle.inactiveBorder": "#fff",
-        "panel.border": "#fff",
-        "panelInput.border": "#fff",
+
         "panelInput.placeholderForeground": "#fff",
-        "panelSection.border": "#fff",
+
         "panelSection.dropBackground": "#fff",
-        "panelSectionHeader.border": "#fff",
+        
         "panelSectionHeader.dropBackground": "#fff",
     }
+```
