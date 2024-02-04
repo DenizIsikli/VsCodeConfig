@@ -4,7 +4,7 @@
 This repository contains my extensions and configurations for Visual Studio Code.
 
 ### Extensions
-Import Extentions: `https://vscode.dev/profile/github/ac3603d859d0d974316dfaaf8fe40779`
+[Import Extensions](https://vscode.dev/profile/github/5255d424d692a127d49e30c1fcca79d3)
 
 ### Background
 Background Configs with Katsute.code-background extension:
