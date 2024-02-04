@@ -15,7 +15,7 @@ Background Configs with Katsute.code-background extension:
         ``` json
         "background.windowBackgrounds": ["c:/Users/image_path"]
         ```
-    - Change the image path and use Command Palette: "Background: Install"
+    - Change the image path, save, and use Command Palette: "Background: Install"
 
 ### ~~VsCodeConfiguration.md~~
 - This .md workbench configuration is not in use
